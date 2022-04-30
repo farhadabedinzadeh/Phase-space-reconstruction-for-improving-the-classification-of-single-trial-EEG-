@@ -11,9 +11,9 @@ using https://doi.org/10.1016/j.bspc.2014.02.002
 7.	simply Run main.m ! 
 
     
-Dataset is available at https://www.bbci.de/competition/iii/
-Department for Medical Informatics, University of Technology Graz. alois.schloegl@tugraz.at      
-Good Luck! 
+Dataset is available at https://www.bbci.de/competition/iii/     
+Department for Medical Informatics, University of Technology Graz. alois.schloegl@tugraz.at         
 
+Good Luck! 
 For any error or bugs contact me at farhaad.abedinzade@gmail.com     
 
